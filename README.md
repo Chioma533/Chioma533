@@ -1,4 +1,4 @@
-# 👋 Hi, I'm LunaDev
+# 👋 Hi, I'm Queen Designz
 
 Frontend Team Lead | Full-Stack Developer 
 
