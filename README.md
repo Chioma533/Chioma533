@@ -1,6 +1,6 @@
 # 👋 Hi, I'm LunaDev
 
-Frontend Team Lead | Full-Stack Developer | Builder of scalable web applications
+Frontend Team Lead | Full-Stack Developer 
 
 ---
 
@@ -8,9 +8,7 @@ Frontend Team Lead | Full-Stack Developer | Builder of scalable web applications
 
 I design and build production-ready web applications with a strong focus on frontend architecture, performance, and user experience.
 
-* Frontend Team Lead at **Max Technology**
-* CEO of **AI Budex**
-* CEO of **Project Pulse**
+* Frontend Team Lead at **Umark Technology**
 * Full-stack developer with hands-on backend integration experience
 
 ---
@@ -26,7 +24,7 @@ I design and build production-ready web applications with a strong focus on fron
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** React, JavaScript (ES6+), HTML, CSS
+* **Frontend:** React, JavaScript (ES6+), HTML, CSS, TypeScript
 * **Styling:** Tailwind CSS, Custom CSS
 * **Tools:** Git, GitHub, Vite
 * **Backend (Working Knowledge):** REST APIs, Firebase, Supabase
@@ -35,7 +33,7 @@ I design and build production-ready web applications with a strong focus on fron
 
 ## 📌 Current Projects
 
-* **AI Budex**
+* **AIBodex**
   AI-powered system focused on automation and smart workflows
 
 * **LinkProSoft**
