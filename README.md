@@ -1,43 +1,65 @@
-# Hi there 👋, I'm Chioma533!
+# 👋 Hi, I'm LunaDev
 
-## 🚀 About Me
-Passionate about building impactful solutions  
-**MERN Stack Developer & Product Manager**
-
-- 💻 Skilled in: HTML, CSS, JavaScript, React, Tailwind, Bootstrap, Node.js, PHP
-- 🎯 Favorite Project: [LinkProSoft](#) <!-- Update with actual repo link if available! -->
-- 🏆 Achievements:
-  - Best Graduating Fullstack Developer, Webcapz Technologies
-  - Most Efficient Product Manager, Umarks Technologies
-  - One Year Best Web Development Tutor Award, Current Workplace
-
-## 🌟 Skills
-- Frontend: React, Tailwind, Bootstrap, HTML, CSS, JavaScript
-- Backend: Node.js, PHP
-
-## 💼 Featured Project
-### [LinkProSoft](#)
-*Showcasing innovative solutions & robust management features.*  
-<!-- Add a short description or update with a link! -->
-
-## 🏅 Achievements & Awards
-- **Best Graduating Fullstack Developer** at Webcapz Technologies
-- **Most Efficient Product Manager** at Umarks Technologies
-- **Best Web Development Tutor Award (1 Year)** at current workplace
-
-## 📫 Connect with Me
-<!-- Add your social links below if you'd like them included! -->
-<!--
-- [LinkedIn](#)
-- [Twitter](#)
-- [Website](#)
--->
-
-## 🎉 Fun Facts
-- ☕ Coffee lover
-- 🏊 Swimmer
-- 🍲 Foodie
+Frontend Team Lead | Full-Stack Developer | Builder of scalable web applications
 
 ---
 
-*Thanks for visiting my profile! Let’s connect and build something amazing together.*
+## 🚀 About Me
+
+I design and build production-ready web applications with a strong focus on frontend architecture, performance, and user experience.
+
+* Frontend Team Lead at **Max Technology**
+* CEO of **AI Budex**
+* CEO of **Project Pulse**
+* Full-stack developer with hands-on backend integration experience
+
+---
+
+## 🧠 What I’m Focused On
+
+* Building scalable frontend systems with React
+* API integration and real-world application architecture
+* Shipping complete products, not just features
+* Improving code structure, maintainability, and performance
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React, JavaScript (ES6+), HTML, CSS
+* **Styling:** Tailwind CSS, Custom CSS
+* **Tools:** Git, GitHub, Vite
+* **Backend (Working Knowledge):** REST APIs, Firebase, Supabase
+
+---
+
+## 📌 Current Projects
+
+* **AI Budex**
+  AI-powered system focused on automation and smart workflows
+
+* **LinkProSoft**
+  Platform connecting verified professionals with employers
+
+* **Task Manager**
+  Productivity system for structured task tracking and workflow management
+
+---
+
+## 📈 What You’ll Find Here
+
+* Real-world projects (not tutorials)
+* Clean and structured UI systems
+* Continuous improvement in architecture and code quality
+* Products built with scalability in mind
+
+---
+
+## 🤝 Open To
+
+* Frontend and Full-stack opportunities
+* Collaborations on impactful products
+
+---
+
+⭐ *I build systems, not just interfaces.*
